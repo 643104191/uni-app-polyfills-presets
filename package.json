@@ -1,0 +1,24 @@
+{
+  "name": "uni-app-polyfills-presets",
+  "version": "1.0.0",
+  "description": "uniapp polyfills presets",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@babel/preset-env": "^7.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/643104191/uni-app-polyfills-presets.git"
+  },
+  "author": "xieyongjie",
+  "license": "MIT",
+  "keywords": ["uni-app","es6","polyfills"],
+  "bugs": {
+    "url": "https://github.com/643104191/uni-app-polyfills-presets/issues"
+  },
+  "homepage": "https://github.com/643104191/uni-app-polyfills-presets#readme"
+}
